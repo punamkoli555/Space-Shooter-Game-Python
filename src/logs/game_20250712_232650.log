@@ -1,0 +1,5 @@
+2025-07-12 23:26:50,298 - INFO - utils.debug_config - Production mode - limited console output
+2025-07-12 23:26:50,408 - INFO - utils.debug_config - Pygame initialized successfully
+2025-07-12 23:26:50,439 - INFO - utils.debug_config - Game settings loaded
+2025-07-12 23:26:51,106 - INFO - utils.debug_config - SpaceWarzone Game engine initialized Successfully
+2025-07-12 23:26:51,211 - INFO - utils.debug_config - Window icon set successfully

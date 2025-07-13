@@ -1,0 +1,4 @@
+2025-07-12 23:06:42,276 - INFO - utils.debug_config - Production mode - limited console output
+2025-07-12 23:06:42,736 - INFO - utils.debug_config - Pygame initialized successfully
+2025-07-12 23:06:43,003 - INFO - utils.debug_config - Game settings loaded
+2025-07-12 23:06:43,967 - INFO - utils.debug_config - BismayaByte Game engine initialized Successfully
